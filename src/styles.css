@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.box {
+  width: 20px;
+  height: 20px;
+  margin: 6px;
+  cursor: pointer;
+}
+
+.grey {
+  background: #d1d1d1;
+}
+
+.gold {
+  background: gold;
+}
